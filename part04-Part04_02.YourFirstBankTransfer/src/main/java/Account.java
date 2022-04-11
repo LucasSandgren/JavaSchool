@@ -28,4 +28,12 @@ public class Account {
     public String toString() {
         return this.owner + " balance: " + this.balance;
     }
+
+    void withdrawal(int i, int i0) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    void deposit(int i, int i0) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
